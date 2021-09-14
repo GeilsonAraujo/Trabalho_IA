@@ -1,0 +1,19 @@
+Novo Treinamento
+0,64
+1,0
+2,64
+3,0
+Novo Treinamento
+0,64
+1,0
+Novo Treinamento
+0,64
+1,0
+Novo Treinamento
+0,64
+1,0
+Novo Treinamento
+0,64
+1,0
+2,64
+3,0

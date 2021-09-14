@@ -1,0 +1,8 @@
+PL		PW		Bias
+-0.5781538	0.27634376	-1.7248552
+validation accuracy: 0.7333333
+trainning accuracy: 0.81499994
+fold accuracy: 
+0.8333333	0.8333333	0.6666667	0.8333333	0.5	
+validation error: 
+1.0	1.0	2.0	1.0	3.0	

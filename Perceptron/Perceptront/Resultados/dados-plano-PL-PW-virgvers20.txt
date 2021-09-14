@@ -1,0 +1,8 @@
+PL		PW		PesoBias
+12.301334	43.80421	-136.0
+validation accuracy: 0.75
+trainning accuracy: 0.860275
+fold accuracy: 
+0.75	0.5	0.875	0.75	0.875	
+validation error: 
+2.0	4.0	1.0	2.0	1.0	
